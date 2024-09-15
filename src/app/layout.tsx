@@ -7,7 +7,8 @@ import Header from '@/components/Header'
 const livvic = Livvic({
   subsets: ['latin'],
   variable: '--font-livvic',
-  weight: ['600', '700'],
+  style: 'normal',
+  weight: ['400', '600', '700'],
 })
 
 export const metadata: Metadata = {

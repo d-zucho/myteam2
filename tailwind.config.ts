@@ -9,6 +9,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        inter: 'var(--font-inter)',
+      },
       colors: {
         'midnight-green': 'var(--midnight-green)',
         'light-coral': 'var(--light-coral)',

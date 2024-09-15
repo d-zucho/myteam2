@@ -1,10 +1,10 @@
 export const NAV_LINKS: INAV_LINK[] = [
   {
-    label: 'Home',
+    label: 'home',
     href: '/',
   },
   {
-    label: 'About',
+    label: 'about',
     href: '/about',
   },
 ]
